@@ -1,0 +1,36 @@
+[
+    {
+        "id":"1",
+        "title":"Yo-Zuri Mag Darter Flotante",
+        "category": "Señuelo",
+        "pictureUrl":"https://m.media-amazon.com/images/I/61GFCMzOaXL._AC_SX679_.jpg",
+        "description":"Sistema de transferencia de peso magnético patentado bala flotante.Acción ancha oscilación y danza",
+        "price":"$12"
+    },
+    {
+        "id":"2",
+        "title":" Born of Water",
+        "category": "T-Shirt",
+        "pictureUrl":"https://m.media-amazon.com/images/I/5168WKsJ6qL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "description":"Camiseta de pesca submarina de calavera y submarino: manga corta para hombre, para pesca, buceo, navegación y playa",
+        "price":"$24"
+    },
+    {
+        "id":"3",
+        "title":"Telescopic Fishing Rod Reel Combo 2pcs",
+        "category": "Kit",
+        "pictureUrl":"https://m.media-amazon.com/images/I/81njDewzTWL._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg",
+        "description":"El kit de caña de pescar plegable mouhike incluye accesorios esenciales de pesca: 2 cañas de pescar de 6.89 pies ",
+        "price":"$85"
+    },
+    {
+        "id":"4",
+        "title":"BASSDASH SwimShad Glide Baits -Pesca articulado para Lucio",
+        "category": "Señuelo",
+        "pictureUrl":"https://m.media-amazon.com/images/I/61niEvy9+YL._AC_SX679_.jpg",
+        "description":"Como un cebo de hundimiento lento, el cebo se puede utilizar para atacar toda la columna de agua ",
+        "price":"$15"
+    }
+
+]
+

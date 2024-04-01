@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import data from "../data/product.json";
 import Card from 'react-bootstrap/Card';
+import Button from "react-bootstrap/esm/Button";
+
 
 
 export const ItemDetailContainer = () => {
@@ -36,6 +38,7 @@ export const ItemDetailContainer = () => {
         <Card.Subtitle className="mb-2 text-muted">{item.category}</Card.Subtitle>
         <Card.Text>{item.description}</Card.Text>
         <Card.Text>{item.price}</Card.Text>
+        <Button variant="primary">Comprar</Button>
 
       </Card.Body>
     </Card>
